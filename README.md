@@ -8,3 +8,7 @@ Controls:
 WASD or Arrow Keys
 
 Spacebar
+
+Note:
+-----
+Make sure to mark all floor sprites with the tag `Floor` so the player sprite can rotate properly.
